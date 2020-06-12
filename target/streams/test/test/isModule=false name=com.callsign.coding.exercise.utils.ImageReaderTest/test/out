@@ -1,5 +1,0 @@
-[0m[[0minfo[0m] [0m[32mImageReaderTest:[0m[0m
-[0m[[0minfo[0m] [0m[32mtransformImage[0m[0m
-[0m[[0minfo[0m] [0m[32m- should transform a pixel present in the first half of the image[0m[0m
-[0m[[0minfo[0m] [0m[32mtransformImage[0m[0m
-[0m[[0minfo[0m] [0m[32m- should not transform a pixel present in the first half of the image[0m[0m
